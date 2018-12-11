@@ -23,6 +23,10 @@ h1{
   padding-top:100px;
   padding-bottom:100px;
 }
+.md1-section{
+  padding-top:40px;
+  padding-bottom:50px;
+}
 
 #section1{
   background-image:url('../img/s1.jpg');
@@ -47,6 +51,9 @@ h1{
 .counter-description{
   margin-top:30px;
 }
+#sekcje{
+    margin-top: 10px;
+}
 
 
 
@@ -65,6 +72,7 @@ h1{
 .nav-item{
   padding-right:5px;
 }
+
 
 /* /navigation */
 
